@@ -1,5 +1,5 @@
 # SKM1 CUT & RUN with Snakemake
-Snakemake Pipeline to analyze data from SKM-1 leukemic cell line produced using Cleavage Under Targets and Release Using Nuclease protocol sequenced on Illumina NovaSeq 6000. The Pipeline is based on the [CUT&Tag Data Processing and Analysis Tutorial](https://yezhengstat.github.io/CUTTag_tutorial/index.html).
+Snakemake Pipeline to analyze data produced using Cleavage Under Targets and Release Using Nuclease protocol sequenced on Illumina NovaSeq 6000. The Pipeline is based on the [CUT&Tag Data Processing and Analysis Tutorial](https://yezhengstat.github.io/CUTTag_tutorial/index.html).
 
 ## Docker Image
 The docker image to reproduce the results of the analysis is available at
