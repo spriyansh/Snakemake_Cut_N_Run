@@ -22,7 +22,3 @@ cd /scripts
 ```
 snakemake -s main.smk -c 24 --configfile config_merged.json --rerun-incomplete -k --dry-run
 ```
-
-
-## Results Diretcory Structure 
----
